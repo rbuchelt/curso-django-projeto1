@@ -1,0 +1,8 @@
+Quando vamos começar um projeto
+
+>>>django-admin startproject nome_do_projeto . (o ponto final é necessário)
+
+>>>python manage.py runserver (executa o servidor que o django vai subir em modo de desenvolvimento)
+
+Nota: usamos o django-admin só é usado para dar o start do projeto
+
